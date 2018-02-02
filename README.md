@@ -5,6 +5,9 @@ In psychology, the Stroop effect is a demonstration of interference in the react
 
 test here - http://www.math.unt.edu/~tam/SelfTests/StroopEffects.html
 
+## run the stroopdatareport.html to view the findings
+
+
 
 
 
